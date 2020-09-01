@@ -1,0 +1,8 @@
+C:\Users\beryl\Desktop\DogBarber\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\beryl\Desktop\DogBarber\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\beryl\Desktop\DogBarber\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\beryl\Desktop\DogBarber\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\beryl\Desktop\DogBarber\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\beryl\Desktop\DogBarber\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\beryl\Desktop\DogBarber\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\beryl\Desktop\DogBarber\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

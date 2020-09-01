@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\beryl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\beryl\\.nuget\\packages"
+    ]
+  }
+}
